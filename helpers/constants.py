@@ -9,7 +9,6 @@ languages = {
     "por": "🇵🇹 Portuguese",
     "ces": "🇨🇿 Czech",
     "pol": "🇵🇱 Polish",
-    "id" : "ID Indonesia"
 }
 
 # sort languages by index
@@ -27,7 +26,6 @@ languages_easyocr = {
     "por": "pt",
     "ces": "cs",
     "pol": "pl",
-    "ind": "id",
 }
 
 flags = {
@@ -39,7 +37,6 @@ flags = {
     "por": "🇵🇹",
     "ces": "🇨🇿",
     "pol": "🇵🇱",
-    "ind": "id",
 }
 
 # sort flags by index
