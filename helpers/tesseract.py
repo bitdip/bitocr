@@ -4,7 +4,7 @@ import pytesseract
 import streamlit as st
 
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
 oem = [
     "Original Tesseract only",
