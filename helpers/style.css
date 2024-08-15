@@ -1,0 +1,12 @@
+/* custom styling of streamlit components */
+
+div.block-container {
+    padding-top: 1.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.7em;
+}
