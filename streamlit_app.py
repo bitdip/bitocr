@@ -102,7 +102,7 @@ init_session_state_variables()
 with open(file="helpers/style.css", mode='r', encoding='utf-8') as css:
     st.markdown(f"<style>{css.read()}</style>", unsafe_allow_html=True)
 
-st.title(f"Tesseract OCR :mag_right: {constants.flag_string}")
+st.title(f"BitDip OCR By Bingki || Tesseract OCR :mag_right: {constants.flag_string}")
 st.markdown("---")
 
 with st.sidebar:
@@ -129,8 +129,7 @@ with st.sidebar:
         """---
 # About
 Streamlit app to extract text from images using Tesseract OCR
-## GitHub
-<https://github.com/Franky1/Streamlit-Tesseract>
+Dev Contact: bingki@hotmail.com
 """,
         unsafe_allow_html=True,
     )
